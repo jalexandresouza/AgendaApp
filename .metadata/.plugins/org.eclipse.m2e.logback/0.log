@@ -1,0 +1,15 @@
+2023-01-31 20:25:38,804 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-31 20:26:00,582 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.agenda.app:agenda-app:0.0.1-SNAPSHOT @ C:\Users\Curso\Downloads\agenda-app\agenda-app\pom.xml.
+2023-01-31 20:26:01,357 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /agenda-app/src/main/java
+2023-01-31 20:26:01,357 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /agenda-app/src/main/resources
+2023-01-31 20:26:01,363 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /agenda-app/src/main/resources
+2023-01-31 20:26:01,365 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /agenda-app/src/test/java
+2023-01-31 20:26:01,675 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-01-31 20:38:05,835 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.12; built: 2022-09-14T01:54:40.076Z; git: 408d0139887e27a57b54ed52e2d92a36731a7e88; jvm 17.0.5+8
+2023-01-31 20:38:05,882 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-01-31 20:38:05,919 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@9311347{/help,null,AVAILABLE}
+2023-01-31 20:38:05,954 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2649fa34{HTTP/1.1, (http/1.1)}{127.0.0.1:59168}
+2023-01-31 20:38:05,956 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@32af4c37{STARTING}[10.0.12,sto=0] @753055ms
+2023-01-31 20:41:39,243 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@32af4c37{STOPPING}[10.0.12,sto=0]
+2023-01-31 20:41:39,248 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2649fa34{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-01-31 20:41:39,256 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@9311347{/help,null,STOPPED}

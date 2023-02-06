@@ -1,0 +1,36 @@
+2023-01-31 21:22:22,746 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-31 21:22:24,525 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.agenda.app:agenda-app:0.0.1-SNAPSHOT @ C:\agenda-app\agenda-app\pom.xml.
+2023-01-31 21:22:25,171 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 21:22:25,185 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 21:22:25,189 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\agenda-app\agenda-app\src\test\resources
+2023-01-31 21:22:25,556 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.agenda.app:agenda-app:0.0.1-SNAPSHOT @ C:\agenda-app\agenda-app\pom.xml.
+2023-01-31 21:22:26,682 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 21:22:26,682 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 21:22:26,687 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\agenda-app\agenda-app\src\test\resources
+2023-01-31 21:23:58,705 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-31 21:24:58,648 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 21:24:58,662 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 21:24:58,667 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\agenda-app\agenda-app\src\test\resources
+2023-01-31 21:26:19,066 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.agenda.app:agenda-app:0.0.1-SNAPSHOT @ C:\agenda-app\agenda-app\pom.xml.
+2023-01-31 21:26:19,351 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /agenda-app/src/main/java
+2023-01-31 21:26:19,351 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /agenda-app/src/main/resources
+2023-01-31 21:26:19,352 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /agenda-app/src/main/resources
+2023-01-31 21:26:19,352 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /agenda-app/src/test/java
+2023-01-31 21:26:19,504 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-01-31 21:26:20,242 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 21:26:20,262 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 21:26:20,266 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\agenda-app\agenda-app\src\test\resources
+2023-01-31 21:27:16,266 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 21:27:16,275 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 21:27:16,278 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\agenda-app\agenda-app\src\test\resources
+2023-01-31 21:27:17,204 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.11; built: 2022-06-21T21:12:44.640Z; git: d988aa016e0bb2de6fba84c1659049c72eae3e32; jvm 17.0.4.1+1
+2023-01-31 21:27:17,330 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-01-31 21:27:17,452 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@10d11b3b{/help,null,AVAILABLE}
+2023-01-31 21:27:17,486 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@68d42851{HTTP/1.1, (http/1.1)}{127.0.0.1:60109}
+2023-01-31 21:27:17,505 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@53fa13b3{STARTING}[10.0.11,sto=0] @208154ms
+2023-01-31 21:28:27,157 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-31 21:28:27,162 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-31 21:28:27,165 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\agenda-app\agenda-app\src\test\resources
+2023-02-01 18:47:41,277 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@53fa13b3{STOPPING}[10.0.11,sto=0]
+2023-02-01 18:47:41,307 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@68d42851{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-02-01 18:47:41,917 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@10d11b3b{/help,null,STOPPED}
